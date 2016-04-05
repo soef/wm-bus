@@ -1,0 +1,32 @@
+{
+  "name": "wm-bus",
+  "version": "0.0.1",
+  "description": "wm-bus",
+  "author": {
+    "name": "soef",
+    "email": "soef@gmx.net"
+  },
+  "contributors": [
+    {
+      "name": "soef",
+      "email": "soef@gmx.net"
+    }
+  ],
+  "homepage": "https://github.com/soef/wm-bus",
+  "license": "MIT",
+  "keywords": [
+    "wm-bus",
+    "wmbus"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soef/wm-bus"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/soef/wm-bus/issues"
+  },
+  "readmeFilename": "README.md"
+}
