@@ -1,6 +1,6 @@
 {
   "name": "wm-bus",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "wm-bus",
   "author": {
     "name": "soef",
@@ -20,10 +20,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/soef/wm-bus"
+    "url": "git+https://github.com/soef/wm-bus.git"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {},
   "bugs": {
     "url": "https://github.com/soef/wm-bus/issues"
